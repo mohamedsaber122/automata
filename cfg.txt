@@ -1,0 +1,7 @@
+NT = S A B X Y
+T = a b c
+S -> AX | YB
+A -> aAb | ε
+B -> bBc | ε
+X -> cX | ε
+Y -> aY | ε
